@@ -12,7 +12,7 @@ This is a React application designed to help you manage your tasks effectively. 
 
 ## Getting Started:
 
-* Clone the repository: 
+* Clone the repository: https://github.com/Abhiraj412/Task-Tracker
 * Install dependencies: npm install
 * Start the development server: npm start
 * Open http://localhost:3000 in your browser
